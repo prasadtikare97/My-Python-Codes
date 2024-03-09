@@ -1,0 +1,11 @@
+apple
+bear
+goodbye
+grapes
+hat
+hello
+laser
+monster
+shell
+violin
+zebra
